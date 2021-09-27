@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey there, I'm Mohammed Shajin - Co-founder and CEO of Whalesin & WiseHours
 
 [![Github](https://img.shields.io/github/followers/mhdshjn?label=Follow&style=social)](https://github.com/mhdshjn)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mohd-shajin/)
@@ -6,7 +6,8 @@
 [![Website](https://img.shields.io/badge/-mohammedshajin.com-47CCCC?style=flat&logo=Google-Chrome&logoColor=white)](https://mohammedshajin.com)
 
 
-## &#x1f4c8; GitHub Stats
+
+GitHub Stats
 
 <p>
 <a href="https://github-readme-stats.vercel.app/api?username=mhdshjn&show_icons=true&locale=en&count_private=true&hide_rank=false&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=dracula&show_icons=true&hide_border=true">
