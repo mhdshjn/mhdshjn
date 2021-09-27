@@ -5,9 +5,9 @@
 [![Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FMHD_SHJN)](https://twitter.com/mmohdshjn)
 [![Website](https://img.shields.io/badge/-mohammedshajin.com-47CCCC?style=flat&logo=Google-Chrome&logoColor=white)](https://mohammedshajin.com)
 
+Ever since I was a kid I was very passionate about changing the world to a better place and it turnsout I was true to my words. I find that innovation, creativity and imagination are the key components every person should have. Spread the world with colors and the world starts shining with you.
 
-
-GitHub Stats
+### GitHub Stats
 
 <p>
 <a href="https://github-readme-stats.vercel.app/api?username=mhdshjn&show_icons=true&locale=en&count_private=true&hide_rank=false&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=dracula&show_icons=true&hide_border=true">
