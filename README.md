@@ -2,7 +2,7 @@
 
 [![Github](https://img.shields.io/github/followers/mhdshjn?label=Follow&style=social)](https://github.com/mhdshjn)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mohd-shajin/)
-[![Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FMHD_SHJN)](https://twitter.com/mmohdshjn)
+[![Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FMHD_SHJN)](https://twitter.com/mohdshjn)
 [![Website](https://img.shields.io/badge/-mohammedshajin.com-EF4056?style=flat&logo=Google-Chrome&logoColor=white)](https://mohammedshajin.com)
 
 Ever since I was a kid I was very passionate about changing the world to a better place and it turnsout I was true to my words. I find that innovation, creativity and imagination are the key components every person should have. Spread the world with colors and the world starts shining with you.
