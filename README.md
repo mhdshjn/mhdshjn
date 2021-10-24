@@ -1,8 +1,8 @@
 ### Hey there, I'm Mohammed Shajin - Co-founder and CEO of Whalesin & WiseHours
 
-[![Github](https://img.shields.io/github/followers/mhdshjn?label=mhdshjn&style=social)](https://github.com/mhdshjn)
+[![Github](https://img.shields.io/github/followers/mohammedshajin?label=mohammedshajin&style=social)](https://github.com/mhdshjn)
 [![Linkedin](https://img.shields.io/badge/-Mohdshajin-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mohammed-shajin/)](https://www.linkedin.com/in/mohd-shajin/)
-[![Twitter](https://img.shields.io/twitter/url?label=mohdshjn&style=social&url=https%3A%2F%2Ftwitter.com%2Fmohdshjn)](https://twitter.com/mohdshjn)
+[![Twitter](https://img.shields.io/twitter/url?label=mohdshjn&style=social&url=https%3A%2F%2Ftwitter.com%2Fmohammedshajinp)](https://twitter.com/mohdshjn)
 [![Website](https://img.shields.io/badge/-mohammedshajin.com-EF4056?style=flat&logo=Google-Chrome&logoColor=white)](https://mohammedshajin.com)
 
 Ever since I was a kid I was very passionate about changing the world to a better place and it turnsout I was true to my words. I find that innovation, creativity and imagination are the key components every person should have. Spread the world with colors and the world starts shining with you.
