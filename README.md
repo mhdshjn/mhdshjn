@@ -1,4 +1,4 @@
-### Hey there, I'm Mohammed Shajin - Co-founder and CEO of Whalesin & WiseHours
+### Hey there, I'm Mohammed Shajin - Full-Stack Developer
 
 [![Github](https://img.shields.io/github/followers/mohammedshajin?label=mohammedshajin&style=social)](https://github.com/mohammedshajin)
 [![Linkedin](https://img.shields.io/badge/-mohammedshajin-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mohammed-shajin/)](https://www.linkedin.com/in/mohammed-shajin/)
