@@ -5,7 +5,7 @@
 [![Twitter](https://img.shields.io/twitter/url?label=mohammedshajinp&style=social&url=https%3A%2F%2Ftwitter.com%2Fmohammedshajinp)](https://twitter.com/mohammedshajinp)
 [![Website](https://img.shields.io/badge/-mohammedshajin.com-EF4056?style=flat&logo=Google-Chrome&logoColor=white)](https://mohammedshajin.com)
 
-Ever since I was a kid I was very passionate about changing the world to a better place and it turnsout I was true to my words. I find that innovation, creativity and imagination are the key components every person should have. 
+Cofounder and CEO @wisehours
 ### GitHub Stats
 
 <p>
