@@ -5,7 +5,7 @@
 [![Twitter](https://img.shields.io/twitter/url?label=mohammedshajinp&style=social&url=https%3A%2F%2Ftwitter.com%2Fmohammedshajinp)](https://twitter.com/mohammedshajinp)
 [![Website](https://img.shields.io/badge/-mohammedshajin.com-EF4056?style=flat&logo=Google-Chrome&logoColor=white)](https://mohammedshajin.com)
 
-Cofounder and CEO @wisehours
+Co-founder & CEO of Wisehours Private Limited, Co-founder & CEO of Whalesin Technologies
 ### GitHub Stats
 
 <p>
